@@ -1,0 +1,9 @@
+# Ignore py env
+/pyenv/
+
+# Ignore all .log files
+*.log
+
+# Ignore folder python code
+/experimenting/
+/__pycache__/
